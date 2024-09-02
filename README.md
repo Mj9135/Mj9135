@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **`Data Structure, MERN, C++`**
 
-- 📝 Checkout my [resume](./assets/bharat_resume.pdf)
+- 📝 Checkout my [resume](https://drive.google.com/file/d/1mjz-zPS4c5zc3jlhK4uL1TNsQsTHcyXK/view?usp=drivesdk)
 
 - 💻 Most used line of code `git commit -m "Initial Commit"`
 
