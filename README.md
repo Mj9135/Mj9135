@@ -9,7 +9,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![](https://visitcount.itsvg.in/api?id=mj9135&icon=5&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mj9135&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/@mj_dev0" target="_blank"><img src="https://img.shields.io/twitter/follow/mj_dev0?logo=twitter&style=for-the-badge" alt="@mj_dev0" /></a> </p>
 
