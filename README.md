@@ -3,7 +3,7 @@
   <h1 align='center'>
   Hi there, <img style="vertical-align: -30%" src="https://media.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif" width="50" height="50"> I'm Mrityunjay 👨
 </h1>
-<h2>A passionate frontend developer from India <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
+<h2>A Passionate Full Stack Developer from INDIA <img style="vertical-align: bottom" src="https://static.vecteezy.com/system/resources/previews/011/571/519/original/circle-flag-of-india-free-png.png" width="25"></h2>
 </div> <br>
 
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
