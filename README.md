@@ -9,7 +9,7 @@
 <!-- <img align="right" alt="Coding" width="400" src="./assets/banner.gif" /> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-[![](https://visitcount.itsvg.in/api?id=mj9135&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mjgupta9135&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/@mj_dev0" target="_blank"><img src="https://img.shields.io/twitter/follow/mj_dev0?logo=twitter&style=for-the-badge" alt="@mj_dev0" /></a> </p>
 
@@ -92,17 +92,17 @@
 # **📈 Activity Graph:**
 <p align="center">
   
-[![Mrityunjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mj9135&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)](https://github.com/mj9135/github-readme-activity-graph)
+[![Mrityunjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mjgupta9135&bg_color=000000&color=f2f2f2&line=5dff05&point=0011ff&area=true&hide_border=true)](https://github.com/mjgupta9135/github-readme-activity-graph)
 
 </p>
 <br />
 
 # **📊 GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=mj9135&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mj9135&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mj9135&theme=highcontrast&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=mjgupta9135&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mjgupta9135&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mjgupta9135&theme=highcontrast&hide_border=true)
 
 <br />
 
 # **🏆 GitHub Trophies:**
-![](https://github-profile-trophy.vercel.app/?username=mj9135&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mjgupta9135&theme=discord&no-frame=false&no-bg=true&margin-w=4)
