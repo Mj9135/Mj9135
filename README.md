@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/@mj_dev0" target="_blank"><img src="https://img.shields.io/twitter/follow/mj_dev0?logo=twitter&style=for-the-badge" alt="@mj_dev0" /></a> </p>
 
-- 🌱 I’m currently learning **`MERN STACK`**
+- 🌱 I’m currently learning **`JAVA FULL STACK`**
 
-- 💬 Ask me about **`Data Structure, MERN, C++`**
+- 💬 Ask me about **`Data Structure, JAVA FULL STACK`**
 
 - 📝 Checkout my [resume](https://drive.google.com/file/d/1mjz-zPS4c5zc3jlhK4uL1TNsQsTHcyXK/view?usp=drivesdk)
 
@@ -48,9 +48,9 @@
 
 # **💻 Languages and Tools:**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 
@@ -64,8 +64,7 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
